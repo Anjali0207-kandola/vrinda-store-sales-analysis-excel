@@ -35,13 +35,13 @@ To analyze sales data and identify meaningful insights that can help improve bus
 ---
 
 ## 📊 Dashboard Preview
-Vrinda Store Dashboard
+Vrinda store Dashboard .png
 
 ---
 
 ## 📁 Files Included
 - Vrinda_Store_Dashboard_Anjali.xlsx  
-- dashboard.png  
+- Vrinda store Dashboard .png  
 
 ---
 
